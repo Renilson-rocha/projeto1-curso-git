@@ -1,2 +1,6 @@
 Olá! Meu nome é Renilson.
+<<<<<<< HEAD
 Meu sobrenome é Rocha Sousa
+=======
+Olá, mudei o códio na segunda linha.
+>>>>>>> ab29b754db0f4c3810b70678ec96a2587c23dc99
